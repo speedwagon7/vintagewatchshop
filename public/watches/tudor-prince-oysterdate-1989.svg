@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="r" cx="72%" cy="55%" r="85%">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <rect width="1200" height="900" fill="url(#r)"/>
+  <g fill="none" stroke="#e5e7eb" stroke-opacity="0.85">
+    <circle cx="600" cy="450" r="220" stroke-width="10"/>
+    <circle cx="600" cy="450" r="190" stroke-width="2" stroke-opacity="0.55"/>
+    <path d="M600 250v40M600 610v40M400 450h40M760 450h40" stroke-width="6" stroke-linecap="round"/>
+    <path d="M600 450l0-120" stroke-width="10" stroke-linecap="round"/>
+    <path d="M600 450l-120 10" stroke-width="8" stroke-linecap="round" stroke-opacity="0.7"/>
+  </g>
+  <text x="60" y="110" fill="#f9fafb" font-size="56" font-family="ui-sans-serif, system-ui" font-weight="700">
+    Tudor Prince Oysterdate (1989)
+  </text>
+  <text x="60" y="165" fill="#cbd5e1" font-size="30" font-family="ui-sans-serif, system-ui">
+    Placeholder image  swap with real photos when ready
+  </text>
+</svg>
